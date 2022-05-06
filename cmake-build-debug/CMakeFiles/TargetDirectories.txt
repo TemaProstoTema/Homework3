@@ -1,0 +1,3 @@
+/home/strangecodder/CLionProjects/HomeWork3/cmake-build-debug/CMakeFiles/HomeWork3.dir
+/home/strangecodder/CLionProjects/HomeWork3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/strangecodder/CLionProjects/HomeWork3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
